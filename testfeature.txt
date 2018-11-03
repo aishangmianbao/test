@@ -1,0 +1,13 @@
+nihao shijie
+hello world
+git status
+
+git add Hello.java
+git commit -m "create new file Hello.java"
+
+git add .
+git commit -m "Add Two File"
+
+git commit -a -m "change emp.java"
+
+git diff world.txt
