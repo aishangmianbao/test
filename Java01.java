@@ -1,0 +1,11 @@
+import java.util.*;
+import java.lang.*;
+import java.text.*;
+
+
+public class Java01{
+	public static void main(String[] args) throws Exception{
+		IMessage tmp = MessageUtil.getMessage().get();
+		MessageUtil.useMessage(tmp);
+	}	
+}
