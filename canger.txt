@@ -11,3 +11,7 @@ git commit -m "Add Two File"
 git commit -a -m "change emp.java"
 
 git diff world.txt
+
+nihao shijie
+hello world
+git status
